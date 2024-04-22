@@ -1,0 +1,52 @@
+N. Mounet, M. Gibertini, P. Schwaller, D. Campi, A. Merkys, A. Marrazzo, T. Sohier, I.E. Castelli, A. Cepellotti, G. Pizzi, N. Marzari, Two-dimensional materials from high-throughput computational exfoliation of experimentally known compounds, Nat. Nanotechnol. (2018), 10.1038/s41565-017-0035-5
+Y. Wu, Y.M. Lin, A.A. Bol, K.A. Jenkins, F. Xia, D.B. Farmer, Y. Zhu, P. Avouris, High-frequency, scaled graphene transistors on diamond-like carbon, Nature (2011), 10.1038/nature09979
+H. Zhu, M. Wang, J. Chin. Ceram. Soc 2017, 45, 1045
+M. Chhowalla, Z. Liu, H. Zhang, Chem. Soc. Rev. 2015, 44, 2584
+D.  Akinwande, C. J.  Brennan, J. S.  Bunch, P.  Egberts, J. R.  Felts, H.  Gao, R.  Huang, J. S.  Kim, T.  Li, Y.  Li, K. M.  Liechti, N.  Lu, H. S.  Park, E. J.  Reed, P.  Wang, B. I.  Yakobson, T.  Zhang, Y. W. Zhang, Y. Zhou, Y. Zhu, Extreme Mech. Lett. 2017, 13, 42
+J.  Cheng, C.  Wang, X.  Zou, L.  Liao, Adv. Opt. Mater. 2019, 7, 1800441
+H. Tao, Y. Zhang, Y. Gao, Z. Sun, C. Yan, J. Texter, Chem. Phys., 19 (2) (2017), pp. 921-960
+E.P. Young, J. Park, T. Bai, C. Choi, R.H. DeBlock, ACS Appl. Nano Mater., 1 (9) (2018), pp. 4737-4745
+R.J. Smith, P.J. King, M. Lotya, C. Wirtz, U. Khan, S. De, Adv. Mater., 23 (2011), pp. 3944-3948
+Z. Zeng, Z. Yin, X. Huang, H. Li, Q. He, G. Lu, Angew. Chem. Int. Ed. Engl., 50 (2011), pp. 11093-11097
+B. Radisavljevic, A. Radenovic, J. Brivio, V. Giacometti, A. Kis, Nat. Nanotechnol., 6 (2011), pp. 147-150
+M. Yi, Z. Shen, J. Mater. Chem. A, 3 (22) (2015), pp. 11700-11715
+M. Yi, Z. Shen, J. Mater. Chem. A, 3 (22) (2015), pp. 11700-11715
+Y. Liu, R. Li, Ultrason. – Sonochem., 63 (2020), Article 104923
+Y. Liu, R. Li, Ultrason. – Sonochem., 63 (2020), Article 104923
+Y. Shu, J. Guo, T. Fan, Y. Xu, P. Guo, Z. Wang, L. Wu, Y. Ge, Z. Lin, D. Ma, S. Wei, J. Li, H. Zhang, W. Chen, ACS Appl. Mater. Interfaces, 12 (2020), p. 46509
+J. Feng, L.L. Peng, C.Z. Wu, X. Su, S.L. Hu, C.W. Lin, J. Dai, J.L. Yang, Y. Xie, Adv. Mater., 24 (2012), p. 1969
+J.N. Coleman, M. Lotya, A. O’Neill, S.D. Bergin, P.J. King, U. Khan, K. Young, A. Gaucher, S. De, R.J. Smith IV, S.K. Shvets, G. Arora, H.Y. Stanton, K. Kim, G.T. Lee, G.S. Kim, T. Duesberg, J.J. Hallam, J.J. Boland, J.F. Wang, J.C. Donegan, G. Grunlan, A. Moriarty, R.J. Shmeliov, J.M. Nicholls, E.M. Perkins, K. Grieveson, D.W. Theuwissen, McComb, P.D. Nellist, Science, 331 (2011), p. 568
+Z. Zeng, Z. Yin, X. Huang, H. Li, Q. He, G. Lu, F. Boey, H. Zhang, Angew. Chem. Int. Ed. Engl., 50 (47) (2011), pp. 11093-11097
+M. Chen, Nanoscale, 6 (21) (2014), pp. 12458-12462
+Z. Zeng, Z. Yin, X. Huang, H. Li, Q. He, G. Lu, F. Boey, H. Zhang, Angew. Chem. Int. Ed. Engl., 50 (47) (2011), pp. 11093-11097
+S.J. Hwang, Chem. Eur. J., 20 (17) (2014), pp. 5132-5140
+S.J. Hwang, Chem. Eur. J., 20 (17) (2014), pp. 5132-5140
+Y.M. Han, Chem. Soc. Rev., 42 (14) (2013), pp. 6006-6018
+J.H. Han, S. Lee, J. Cheon, Che. Soc. Rev., 42 (2013), pp. 2581-2591
+J. Xie, J. Zhang, S. Li, F. Grote, X. Zhang, H. Zhang, R. Wang, Y. Lei, B. Pan, Y. Xie, J. Am. Chem. Soc., 135 (47) (2013), pp. 17881-17888
+H. Wang, H. Yuan, H.S. Sae, Y. Li, Y. Cui, Chem. Soc. Rev., 44 (2015), pp. 2664-2680
+D. Yoo, M. Kim, S. Jeong, J. Han, J. Cheon, J. Am. Chem. Soc., 136 (2014), pp. 14670-14673
+R.R. Poolakkandya, M.M. Menamparambath, Nanoscale Adv., 2 (2020), p. 5015
+R.R. Poolakkandya, M.M. Menamparambath, Nanoscale Adv., 2 (2020), p. 5015
+L. Gan, Z. Luo, ACS Nano, 7 (2013), pp. 9480-9488
+J. Yu, J. Li, W. Zhang, H. Chang, Chem. Sci., 6 (2015), p. 6705
+Q.L. Feng, N.N. Mao, J.X. Wu, H. Xu, C.M. Wang, J. Zhang, L.M. Xie, ACS Nano (2015)
+Q.L. Feng, N.N. Mao, J.X. Wu, H. Xu, C.M. Wang, J. Zhang, L.M. Xie, ACS Nano (2015)
+L. Lu, C. Zhang, B. Zou, Y. Wang, Hollow prussian blue nanospheres for photothermal/chemo-synergistic therapy, Int. J. Nanomed. (2020), 10.2147/IJN.S252505
+X. Li, Z.Y. Xin, J.S. Li, Growth of graphene from solid carbon sources, Text. Bioeng. Informatics Symp. Proc. 2018 - 11th Text. Bioeng. Informatics Symp, TBIS (2018)
+H.H. Son, G.H. Seo, U. Jeong, D.Y. Shin, S.J. Kim, Capillary wicking effect of a Cr-sputtered superhydrophilic surface on enhancement of pool boiling critical heat flux, Int. J. Heat Mass Tran. (2017), 10.1016/j.ijheatmasstransfer.2017.05.055
+C. Wang, S. Chen, L. Song, Tuning 2D MXenes by surface controlling and interlayer engineering: methods, properties, and synchrotron radiation characterizations, Adv. Funct. Mater. (2020), 10.1002/adfm.202000869
+Wikipedia https://en.wikipedia.org/wiki/MXenes#/media/File:From_MAX_to_MXenes,_structure.jpg
+J.H. Joshi, D.K. Kanchan, M.J. Joshi, H.O. Jethva, K.D. Parikh, Dielectric relaxation, complex impedance and modulus spectroscopic studies of mix phase rod like cobalt sulfide nanoparticles, Mater. Res. Bull. (2017), 10.1016/j.materresbull.2017.04.013
+Wikipedia https://en.wikipedia.org/wiki/Chalcogenide#/media/File:Sphalerite-unit-cell-3D-balls.png
+S. Sucharitakul, G. Ye, W.R.L. Lambrecht, C. Bhandari, A. Gross, R. He, H. Poelman, X.P.A. Gao, V2O5, A 2D van der Waals oxide with strong in-plane electrical and optical anisotropy, ACS Appl. Mater. Interfaces (2017), 10.1021/acsami.7b05377
+J. Singh, T. Dutta, K.H. Kim, M. Rawat, P. Samddar, P. Kumar, Green” synthesis of metals and their oxide nanoparticles: applications for environmental remediation, J. Nanobiotechnol. (2018), 10.1186/s12951-018-0408-4
+F.  Khosravi, S.  Nouri Khorasani, S.  Khalili, R.  Esmaeely Neisiany, E.  Rezvani Ghomi, F.  Ejeian, O.  Das, M. H.  Nasr-Esfahani, Polymers 2020, 12, 1022
+J. Li, Q. Yan, X. Zhang, J. Zhang, Z. Cai, Polymers 2019, 11, 623
+W.  Liu, R.  Zhou, D.  Zhou, G.  Ding, J. M.  Soah, C. Y.  Yue, X.  Lu, Carbon 2015, 83, 188
+H.  Ribeiro, J. P. C.  Trigueiro, P. S.  Owuor, L. D.  Machado, C. F.  Woellner, J. J.  Pedrotti, Y. M.  Jaques, S.  Kosolwattana, A.  Chipara, W. M.  Silva, C. J. R.  Silva, D. S.  Galvão, N.  Chopra, I. N.  Odeh, C. S.  Tiwary, G. G.  Silva, P. M.  Ajayan, Compos. Sci. Technol. 2018, 159, 103
+W.  Cai, X.  Feng, B.  Wang, W.  Hu, B.  Yuan, N.  Hong, Y.  Hu, Chem. Eng. J. 2017, 316, 514
+S. Yang, C. Jiang, S. huai Wei, Appl. Phys. Rev. 2017, 4, 021304
+G.  Lu, S.  Park, K.  Yu, R. S.  Ruoff, L. E.  Ocola, D.  Rosenmann, J. Chen, ACS Nano 2011, 5, 1154
+W.  Choi, N.  Choudhary, G. H.  Han, J.  Park, D.  Akinwande, Y. H. Lee, Mater. Today 2017, 20, 116
+M. Wang, S. Cai, C. Pan, C. Wang, X. Lian, Y. Zhuo, K. Xu, T. Cao, X. Pan, B. Wang, S. Liang, J. Joshua Yang, P. Wang, F. Miao, Nat. Electron. 2018, 1, 130
